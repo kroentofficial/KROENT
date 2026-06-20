@@ -2,9 +2,9 @@ Kroent
 
 Industrial Filtration Solutions
 
-Water Treatment | Process Separation
+Water Treatment • Process Separation
 
-MF | UF | Depth Filtration
+MF • UF • Depth Filtration
 
 Technology-driven industrial filtration and separation solutions for pharmaceutical, electronics, chemical, petrochemical, food & beverage and water industries.
 
