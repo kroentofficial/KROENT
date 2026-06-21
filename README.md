@@ -1,3 +1,7 @@
+<p align="center">
+<img src="kroent-logo.png" width="180">
+</p>
+
 # Kroent
 
 ## Industrial Filtration Solutions
