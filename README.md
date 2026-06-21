@@ -130,14 +130,4 @@ Technology-driven industrial filtration and separation solutions for process ind
 
 # Connect with Kroent
 
-🌐 [Website](https://www.kroent.com)
-
-📰 [Medium](https://medium.com/@Kroent)
-
-📘 [Facebook](https://www.facebook.com/Kroent)
-
-📌 [Pinterest](https://www.pinterest.com/Kroentofficial)
-
-𝕏 [X (Twitter)](https://x.com/KroentOfficial)
-
-💬 [WhatsApp](https://wa.me/85244147292)
+🌐 [Website](https://www.kroent.com) | 📰 [Medium](https://medium.com/@Kroent) | 📘 [Facebook](https://www.facebook.com/Kroent) | 📌 [Pinterest](https://www.pinterest.com/Kroentofficial) | 𝕏 [X](https://x.com/KroentOfficial) | 💬 [WhatsApp](https://wa.me/85244147292)
