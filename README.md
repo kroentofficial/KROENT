@@ -10,17 +10,15 @@ Technology-driven industrial filtration and separation solutions for pharmaceuti
 
 ---
 
-# Quick Navigation
+## Quick Navigation
 
-- Filtration Basics
+- [Filtration Basics](#filtration-basics)
 
-- Industry Applications
+- [Industry Applications](#industry-applications)
 
-- Products
+- [Products](#products)
 
-- Air Filtration Solutions
-
-- About Kroent
+- [Contact](#contact)
 
 ---
 
@@ -68,17 +66,29 @@ Technology-driven industrial filtration and separation solutions for pharmaceuti
 
 ---
 
-# Contact
+# Connect with Kroent
 
 Website
 
 https://www.kroent.com
 
-Email
+Medium
 
-hello@kroent.com
+https://medium.com/@Kroent
+
+Facebook
+
+https://www.facebook.com/Kroent
+
+Pinterest
+
+https://www.pinterest.com/Kroentofficial
+
+X (Twitter)
+
+https://x.com/KroentOfficial
 
 WhatsApp
 
-+852 4414 7292
+https://wa.me/85244147292
 
