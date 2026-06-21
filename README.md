@@ -1,67 +1,42 @@
-# Kroent
-
-## Industrial Filtration Solutions
-
-Water Treatment · Process Separation
-
-MF · UF · Depth Filtration
+Kroent
 
 Technology-driven industrial filtration and separation solutions for pharmaceutical, electronics, chemical, petrochemical, food & beverage and water industries.
 
-Website: https://www.kroent.com
+Quick Navigation
+Filtration Basics
+Industry Applications
+Products
+Air Filtration Solutions
+About Kroent
+Featured Article
+Understanding Industrial Filtration
+Featured Infographic
+Different Filtration Technologies
+Filtration Basics
+What Is Microfiltration (MF)?
+What Is Ultrafiltration (UF)?
+What Is Depth Filtration?
+MF vs UF
+Industry Applications
+Pharmaceutical Filtration
+Electronics Industry Filtration
+Chemical Processing Filtration
+Water Treatment Solutions
+Products
+Filter Cartridges
+Filter Bags
+Filter Housings
+Complete Filtration Systems
+Contact
 
-Email: hello@kroent.com
+Website
 
-WhatsApp: +852 4414 7292
+https://www.kroent.com
 
----
+Email
 
-# Filtration Basics
+hello@kroent.com
 
-### Different Filtration Technologies
+WhatsApp
 
-Different filtration technologies are designed for different applications.
-
-- Microfiltration (MF)
-- Ultrafiltration (UF)
-- Depth Filtration
-
-![Different Filtration Technologies](different-filtration-technologies.png)
-
-### What Is Microfiltration (MF)?
-
-### What Is Ultrafiltration (UF)?
-
-### What Is Depth Filtration?
-
-### MF vs UF
-
----
-
-# Industry Applications
-
-### Pharmaceutical Filtration
-
-### Electronics Industry Filtration
-
-### Chemical Processing Filtration
-
-### Water Treatment Solutions
-
----
-
-# Products
-
-### Filter Cartridges
-
-### Filter Bags
-
-### Filter Housings
-
-### Complete Filtration Systems
-
----
-
-# About Kroent
-
-Serving pharmaceutical, electronics, chemical, petrochemical, food & beverage and water industries worldwide.
++852 4414 7292
