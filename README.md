@@ -26,9 +26,13 @@ Technology-driven industrial filtration and separation solutions for process ind
 
 - [Products](#products)
 
+- [Wiki](#wiki)
+
 - [Knowledge Center](#knowledge-center)
 
-- [Connect with Kroent](#connect-with-kroent)
+- [Contact](#contact)
+
+- [Follow Us](#follow-us)
 
 ---
 
@@ -108,6 +112,14 @@ Technology-driven industrial filtration and separation solutions for process ind
 
 ---
 
+# Wiki
+
+Explore our technical knowledge base.
+
+➡️ [Visit Wiki](https://github.com/KroentOfficial/Kroent/wiki)
+
+---
+
 # Knowledge Center
 
 ### Industrial Filtration Fundamentals
@@ -128,10 +140,11 @@ Technology-driven industrial filtration and separation solutions for process ind
 
 ---
 
-# Connect with Kroent
+# Contact
 
-🌐 [Website](https://www.kroent.com) | 📰 [Medium](https://medium.com/@Kroent) | 📘 [Facebook](https://www.facebook.com/Kroent)
+📧 [hello@kroent.com](mailto:hello@kroent.com) | 💬 [WhatsApp](https://wa.me/85244147292) | 🌐 [Website](https://www.kroent.com) 
 
-📌 [Pinterest](https://www.pinterest.com/Kroentofficial) | 𝕏 [X](https://x.com/KroentOfficial) | 💬 [WhatsApp](https://wa.me/85244147292)
+# Follow Us
 
-📧 [hello@kroent.com](mailto:hello@kroent.com)
+📰 [Medium](https://medium.com/@Kroent) | 📘 [Facebook](https://www.facebook.com/Kroent) | 📌 [Pinterest](https://www.pinterest.com/Kroentofficial) | 𝕏 [X](https://x.com/KroentOfficial) 
+
