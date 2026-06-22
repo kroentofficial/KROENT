@@ -140,11 +140,13 @@ Explore our technical knowledge base.
 
 ---
 
-# Contact
+## Contact
 
-📧 [hello@kroent.com](mailto:hello@kroent.com) | 💬 [WhatsApp](https://wa.me/85244147292) | 🌐 [Website](https://www.kroent.com) 
+📧 [hello@kroent.com](mailto:hello@kroent.com) | 💬 [WhatsApp](https://wa.me/85244147292) | 🌐 [Website](https://www.kroent.com)
 
-# Follow Us
+---
 
-📰 [Medium](https://medium.com/@Kroent) | 📘 [Facebook](https://www.facebook.com/Kroent) | 📌 [Pinterest](https://www.pinterest.com/Kroentofficial) | 𝕏 [X](https://x.com/KroentOfficial) 
+## Follow Us
+
+📰 [Medium](https://medium.com/@Kroent) | 📘 [Facebook](https://www.facebook.com/Kroent) | 📌 [Pinterest](https://www.pinterest.com/Kroentofficial) | 𝕏 [X](https://x.com/KroentOfficial)
 
