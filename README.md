@@ -4,13 +4,11 @@
 
 # KROENT
 
-## Industrial Filtration Solutions
+## Industrial Filtration & Separation Solutions
 
-Water Treatment • Process Separation
+Process Filtration • Process Separation • Water Treatment
 
-MF • UF • Depth Filtration
-
-Technology-driven industrial filtration and separation solutions for process industries, advanced manufacturing, energy infrastructure and environmental applications.
+Technology-driven provider of industrial filtration and separation solutions for process industries, advanced manufacturing, energy infrastructure and environmental applications.
 
 ---
 
@@ -42,6 +40,8 @@ Technology-driven industrial filtration and separation solutions for process ind
 
 ### What Is Ultrafiltration (UF)?
 
+### What Is Nanofiltration (NF)?
+
 ### What Is Depth Filtration?
 
 ### MF vs UF
@@ -58,15 +58,13 @@ Technology-driven industrial filtration and separation solutions for process ind
 
 - Food & Beverage
 
-- Water Treatment
-
 - Energy Storage
 
 - AI Data Centers
 
 - Heavy Industries
 
-- Environmental Applications
+- Environmental Services
 
 ---
 
@@ -82,11 +80,13 @@ Technology-driven industrial filtration and separation solutions for process ind
 
 ### Water Treatment Solutions
 
+### High Purity Water Applications
+
 ### Energy Storage Liquid Cooling Filtration
 
 ### AI Data Center Liquid Cooling Filtration
 
-### Industrial Air Filtration
+### Industrial Air & Gas Filtration
 
 ### Heavy Industry Applications
 
@@ -100,7 +100,11 @@ Technology-driven industrial filtration and separation solutions for process ind
 
 ### Filter Housings
 
-### Complete Filtration Systems
+### Membrane Elements
+
+### Ion Exchange Resins
+
+### Filtration Systems
 
 ---
 
@@ -116,13 +120,27 @@ Explore our technical knowledge base.
 
 ### Industrial Filtration Fundamentals
 
+### Filter Bags
+
+### Filter Cartridges 
+
+### Depth Filtration
+
+### Membrane Technologies
+
 ### Microfiltration (MF)
 
 ### Ultrafiltration (UF)
 
-### Depth Filtration
+### Nanofiltration (NF)
+
+### Reverse Osmosis (RO)
 
 ### Process Separation
+
+### Water Treatment
+
+### High Purity Water
 
 ### Liquid Cooling Filtration
 
