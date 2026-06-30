@@ -4,13 +4,15 @@
 
 # KROENT
 
-## Technical Resources for Filtration, Separation & Water Treatment
+## Technical Resources for Industrial Filtration & Separation Solutions
 
-Industrial filtration, membrane separation, water treatment, UPW systems and process applications for industrial and high-growth industries.
+Providing industrial filtration products, membrane filtration systems, water treatment components, replacement filters and OEM manufacturing solutions for industrial customers worldwide.
+
+Technical resources covering liquid filtration, membrane filtration, water treatment components, replacement filters, ultra pure water (UPW) and industrial process applications.
 
 ---
 
-## Quick Navigation
+# Quick Navigation
 
 - [Filtration Basics](#filtration-basics)
 
@@ -20,11 +22,11 @@ Industrial filtration, membrane separation, water treatment, UPW systems and pro
 
 - [Products](#products)
 
+- [Knowledge Center](#knowledge-center)
+
 - [Wiki](#wiki)
 
 - [FAQ](#faq)
-  
-- [Knowledge Center](#knowledge-center)
 
 - [Contact](#contact)
 
@@ -40,77 +42,119 @@ Industrial filtration, membrane separation, water treatment, UPW systems and pro
 
 ### What Is Nanofiltration (NF)?
 
+### What Is Reverse Osmosis (RO)?
+
 ### What Is Depth Filtration?
 
 ### MF vs UF
+
+### UF vs NF
+
+### NF vs RO
 
 ---
 
 # Serving Industries
 
-- Pharmaceutical
+- Semiconductor
 
-- Electronics & Semiconductor
-
-- Chemical & Petrochemical
-
-- Food & Beverage
-
-- Energy Storage
+- Ultra Pure Water (UPW)
 
 - AI Data Centers
 
-- Heavy Industries
+- Battery Manufacturing
 
-- Environmental Services
+- Water Treatment
+
+- Chemical Processing
+
+- Pharmaceutical
+
+- Food & Beverage
+
+- Electronics
+
+- Mining & Metals
+
+- Power Generation
+
+- Liquid Cooling
 
 ---
 
 # Industry Applications
 
-### Pharmaceutical Filtration
+### Semiconductor Manufacturing
 
-### Electronics & Semiconductor Filtration
+### Ultra Pure Water (UPW)
 
-### Chemical & Petrochemical Filtration
+### AI Data Center Liquid Cooling
+
+### Battery Manufacturing
+
+### Water Treatment
+
+### Chemical Processing
+
+### Pharmaceutical Processing
 
 ### Food & Beverage Processing
 
-### Water Treatment Solutions
+### Electronics Manufacturing
 
-### High Purity Water Applications
+### Mining & Metals
 
-### Energy Storage Liquid Cooling Filtration
-
-### AI Data Center Liquid Cooling Filtration
-
-### Industrial Air & Gas Filtration
-
-### Heavy Industry Applications
+### Power Generation
 
 ---
 
 # Products
 
-### Filter Cartridges
+## Liquid Filtration
 
-### Filter Bags
+- Liquid Filter Bags
 
-### Filter Housings
+- Filter Cartridges
 
-### Membrane Elements
-
-### Ion Exchange Resins
-
-### Filtration Systems
+- Filter Housings
 
 ---
 
-# Wiki
+## Membrane Filtration
 
-Explore our technical knowledge base.
+- Microfiltration (MF)
 
-➡️ [Visit Wiki](https://github.com/KroentOfficial/Kroent/wiki)
+- Ultrafiltration (UF)
+
+- Nanofiltration (NF)
+
+- Reverse Osmosis (RO)
+
+- Membrane Filtration Systems
+
+---
+
+## Water Treatment Components
+
+- Ion Exchange Resins
+
+- FRP Pressure Vessels
+
+- Activated Carbon
+
+- Filtration Media
+
+- Water Treatment Accessories
+
+---
+
+## Replacement Filters
+
+- OEM Replacement Filters
+
+- Cross Reference
+
+- OEM Part Number Search
 
 ---
 
@@ -118,13 +162,15 @@ Explore our technical knowledge base.
 
 ### Industrial Filtration Fundamentals
 
+### Liquid Filtration
+
 ### Filter Bags
 
-### Filter Cartridges 
+### Filter Cartridges
 
-### Depth Filtration
+### Filter Housings
 
-### Membrane Technologies
+### Membrane Filtration
 
 ### Microfiltration (MF)
 
@@ -134,23 +180,39 @@ Explore our technical knowledge base.
 
 ### Reverse Osmosis (RO)
 
+### Water Treatment Components
+
+### Ion Exchange Resins
+
+### FRP Pressure Vessels
+
+### Ultra Pure Water (UPW)
+
 ### Process Separation
 
 ### Water Treatment
 
-### High Purity Water
+### AI Data Centers
 
-### Liquid Cooling Filtration
+### Liquid Cooling
 
-### Energy Storage Applications
+### Replacement Filters
 
-### AI Data Center Applications
+---
+
+# Wiki
+
+Explore our technical knowledge base.
+
+➡️ https://github.com/KroentOfficial/Kroent/wiki
 
 ---
 
 # FAQ
 
-Frequently asked questions and technical resources.
+Frequently asked questions, technical documents and engineering resources for industrial filtration, membrane filtration and water treatment applications.
+
+---
 
 ➡️ [Visit Wiki FAQ](https://github.com/KroentOfficial/Kroent/wiki/FAQ)
 
