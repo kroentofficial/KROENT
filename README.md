@@ -15,21 +15,13 @@ Technical resources covering liquid filtration, membrane filtration, water treat
 # Quick Navigation
 
 - [Filtration Basics](#filtration-basics)
-
 - [Serving Industries](#serving-industries)
-
 - [Industry Applications](#industry-applications)
-
 - [Products](#products)
-
 - [Knowledge Center](#knowledge-center)
-
 - [Wiki](#wiki)
-
 - [FAQ](#faq)
-
 - [Contact](#contact)
-
 - [Follow Us](#follow-us)
 
 ---
@@ -37,19 +29,12 @@ Technical resources covering liquid filtration, membrane filtration, water treat
 # Filtration Basics
 
 ### What Is Microfiltration (MF)?
-
 ### What Is Ultrafiltration (UF)?
-
 ### What Is Nanofiltration (NF)?
-
 ### What Is Reverse Osmosis (RO)?
-
 ### What Is Depth Filtration?
-
 ### MF vs UF
-
 ### UF vs NF
-
 ### NF vs RO
 
 ---
@@ -57,27 +42,16 @@ Technical resources covering liquid filtration, membrane filtration, water treat
 # Serving Industries
 
 - Semiconductor
-
 - Ultra Pure Water (UPW)
-
 - AI Data Centers
-
 - Battery Manufacturing
-
 - Water Treatment
-
 - Chemical Processing
-
 - Pharmaceutical
-
 - Food & Beverage
-
 - Electronics
-
 - Mining & Metals
-
 - Power Generation
-
 - Liquid Cooling
 
 ---
@@ -85,25 +59,15 @@ Technical resources covering liquid filtration, membrane filtration, water treat
 # Industry Applications
 
 ### Semiconductor Manufacturing
-
 ### Ultra Pure Water (UPW)
-
 ### AI Data Center Liquid Cooling
-
 ### Battery Manufacturing
-
 ### Water Treatment
-
 ### Chemical Processing
-
 ### Pharmaceutical Processing
-
 ### Food & Beverage Processing
-
 ### Electronics Manufacturing
-
 ### Mining & Metals
-
 ### Power Generation
 
 ---
@@ -111,92 +75,48 @@ Technical resources covering liquid filtration, membrane filtration, water treat
 # Products
 
 ## Liquid Filtration
-
 - Liquid Filter Bags
-
 - Filter Cartridges
-
 - Filter Housings
 
----
-
 ## Membrane Filtration
-
 - Microfiltration (MF)
-
 - Ultrafiltration (UF)
-
 - Nanofiltration (NF)
-
 - Reverse Osmosis (RO)
-
 - Membrane Filtration Systems
 
----
-
 ## Water Treatment Components
-
 - Ion Exchange Resins
-
 - FRP Pressure Vessels
-
 - Activated Carbon
-
 - Filtration Media
-
 - Water Treatment Accessories
 
----
-
 ## Replacement Filters
-
 - OEM Replacement Filters
-
 - Cross Reference
-
 - OEM Part Number Search
 
 ---
 
 # Knowledge Center
 
-### Industrial Filtration Fundamentals
+Industrial filtration and membrane technology knowledge base for engineering and process applications.
 
-### Liquid Filtration
+👉 **Browse full technical articles here:**  
+➡️ [Articles Index](./articles/index.md)
 
-### Filter Bags
+---
 
-### Filter Cartridges
+## Latest Articles
 
-### Filter Housings
-
-### Membrane Filtration
-
-### Microfiltration (MF)
-
-### Ultrafiltration (UF)
-
-### Nanofiltration (NF)
-
-### Reverse Osmosis (RO)
-
-### Water Treatment Components
-
-### Ion Exchange Resins
-
-### FRP Pressure Vessels
-
-### Ultra Pure Water (UPW)
-
-### Process Separation
-
-### Water Treatment
-
-### AI Data Centers
-
-### Liquid Cooling
-
-### Replacement Filters
+- What Is Microfiltration (MF)
+- Ultrafiltration (UF) Basics
+- Nanofiltration vs Reverse Osmosis
+- Depth Filtration Explained
+- AI Data Center Liquid Cooling Filtration
+- Water Treatment System Overview
 
 ---
 
@@ -218,7 +138,7 @@ Frequently asked questions, technical documents and engineering resources for in
 
 ## Contact
 
-📧 [hello@kroent.com](mailto:hello@kroent.com) | 💬 [WhatsApp](https://wa.me/85244147292) | 🌐 [Website](https://www.kroent.com)
+📧 [info@kroent.com](mailto:info@kroent.com) | 💬 [WhatsApp](https://wa.me/85244147292) | 🌐 [Website](https://www.kroent.com)
 
 ---
 
