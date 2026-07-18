@@ -124,7 +124,7 @@ Industrial filtration and membrane technology knowledge base for engineering and
 
 Explore our technical knowledge base.
 
-➡️ https://github.com/KroentOfficial/Kroent/wiki
+➡️ https://github.com/kroentofficial/kroent/wiki
 
 ---
 
@@ -132,7 +132,7 @@ Explore our technical knowledge base.
 
 Frequently asked questions, technical documents and engineering resources for industrial filtration, membrane filtration and water treatment applications.
 
-➡️ [Visit Wiki FAQ](https://github.com/KroentOfficial/Kroent/wiki/FAQ)
+➡️ [Visit Wiki FAQ](https://github.com/kroentofficial/kroent/wiki/FAQ)
 
 ---
 
@@ -144,5 +144,5 @@ Frequently asked questions, technical documents and engineering resources for in
 
 ## Follow Us
 
-📰 [Medium](https://medium.com/@Kroent) | 📘 [Facebook](https://www.facebook.com/Kroent) | 📌 [Pinterest](https://www.pinterest.com/Kroentofficial) | 𝕏 [X](https://x.com/KroentOfficial)
+📰 [Medium](https://medium.com/@kroent) | 📘 [Facebook](https://www.facebook.com/kroent) | 📌 [Pinterest](https://www.pinterest.com/kroentofficial) | 𝕏 [X](https://x.com/kroentofficial)
 
